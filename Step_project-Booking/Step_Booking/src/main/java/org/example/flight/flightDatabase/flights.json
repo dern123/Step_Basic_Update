@@ -1,0 +1,3007 @@
+[ {
+  "id" : 0,
+  "date" : "15.11.2023",
+  "time" : "17:16",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 167
+}, {
+  "id" : 1,
+  "date" : "09.11.2023",
+  "time" : "21:54",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 59
+}, {
+  "id" : 2,
+  "date" : "12.11.2023",
+  "time" : "16:07",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 99
+}, {
+  "id" : 3,
+  "date" : "16.11.2023",
+  "time" : "14:36",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 45
+}, {
+  "id" : 4,
+  "date" : "13.11.2023",
+  "time" : "04:52",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 95
+}, {
+  "id" : 5,
+  "date" : "15.11.2023",
+  "time" : "12:23",
+  "destination" : "London",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 6,
+  "date" : "09.11.2023",
+  "time" : "00:35",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 41
+}, {
+  "id" : 7,
+  "date" : "16.11.2023",
+  "time" : "10:21",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 46
+}, {
+  "id" : 8,
+  "date" : "17.11.2023",
+  "time" : "12:12",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 166
+}, {
+  "id" : 9,
+  "date" : "09.11.2023",
+  "time" : "05:04",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 180
+}, {
+  "id" : 10,
+  "date" : "09.11.2023",
+  "time" : "01:58",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 101
+}, {
+  "id" : 11,
+  "date" : "15.11.2023",
+  "time" : "16:43",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 14
+}, {
+  "id" : 12,
+  "date" : "13.11.2023",
+  "time" : "07:25",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 109
+}, {
+  "id" : 13,
+  "date" : "14.11.2023",
+  "time" : "07:27",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 44
+}, {
+  "id" : 14,
+  "date" : "12.11.2023",
+  "time" : "01:31",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 154
+}, {
+  "id" : 15,
+  "date" : "15.11.2023",
+  "time" : "15:21",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 119
+}, {
+  "id" : 16,
+  "date" : "12.11.2023",
+  "time" : "23:54",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 130
+}, {
+  "id" : 17,
+  "date" : "14.11.2023",
+  "time" : "09:18",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 24
+}, {
+  "id" : 18,
+  "date" : "13.11.2023",
+  "time" : "00:13",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 57
+}, {
+  "id" : 19,
+  "date" : "14.11.2023",
+  "time" : "03:21",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 180
+}, {
+  "id" : 20,
+  "date" : "15.11.2023",
+  "time" : "11:38",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 139
+}, {
+  "id" : 21,
+  "date" : "09.11.2023",
+  "time" : "09:16",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 31
+}, {
+  "id" : 22,
+  "date" : "13.11.2023",
+  "time" : "09:59",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 23,
+  "date" : "14.11.2023",
+  "time" : "17:44",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 83
+}, {
+  "id" : 24,
+  "date" : "08.11.2023",
+  "time" : "16:21",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 121
+}, {
+  "id" : 25,
+  "date" : "13.11.2023",
+  "time" : "15:10",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 70
+}, {
+  "id" : 26,
+  "date" : "11.11.2023",
+  "time" : "17:19",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 44
+}, {
+  "id" : 27,
+  "date" : "17.11.2023",
+  "time" : "17:59",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 47
+}, {
+  "id" : 28,
+  "date" : "12.11.2023",
+  "time" : "01:26",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 71
+}, {
+  "id" : 29,
+  "date" : "09.11.2023",
+  "time" : "12:12",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 21
+}, {
+  "id" : 30,
+  "date" : "16.11.2023",
+  "time" : "07:16",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 31,
+  "date" : "11.11.2023",
+  "time" : "18:30",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 20
+}, {
+  "id" : 32,
+  "date" : "08.11.2023",
+  "time" : "18:07",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 172
+}, {
+  "id" : 33,
+  "date" : "08.11.2023",
+  "time" : "22:55",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 96
+}, {
+  "id" : 34,
+  "date" : "12.11.2023",
+  "time" : "11:12",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 35,
+  "date" : "09.11.2023",
+  "time" : "09:28",
+  "destination" : "London",
+  "availableSeatsQuantity" : 144
+}, {
+  "id" : 36,
+  "date" : "13.11.2023",
+  "time" : "15:35",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 104
+}, {
+  "id" : 37,
+  "date" : "09.11.2023",
+  "time" : "05:18",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 26
+}, {
+  "id" : 38,
+  "date" : "16.11.2023",
+  "time" : "22:05",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 53
+}, {
+  "id" : 39,
+  "date" : "09.11.2023",
+  "time" : "04:27",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 55
+}, {
+  "id" : 40,
+  "date" : "13.11.2023",
+  "time" : "02:35",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 188
+}, {
+  "id" : 41,
+  "date" : "09.11.2023",
+  "time" : "06:06",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 159
+}, {
+  "id" : 42,
+  "date" : "16.11.2023",
+  "time" : "10:17",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 26
+}, {
+  "id" : 43,
+  "date" : "11.11.2023",
+  "time" : "13:54",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 44,
+  "date" : "14.11.2023",
+  "time" : "01:32",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 30
+}, {
+  "id" : 45,
+  "date" : "10.11.2023",
+  "time" : "15:52",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 142
+}, {
+  "id" : 46,
+  "date" : "12.11.2023",
+  "time" : "06:59",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 56
+}, {
+  "id" : 47,
+  "date" : "14.11.2023",
+  "time" : "14:55",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 27
+}, {
+  "id" : 48,
+  "date" : "12.11.2023",
+  "time" : "23:17",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 159
+}, {
+  "id" : 49,
+  "date" : "12.11.2023",
+  "time" : "10:45",
+  "destination" : "London",
+  "availableSeatsQuantity" : 93
+}, {
+  "id" : 50,
+  "date" : "08.11.2023",
+  "time" : "02:15",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 178
+}, {
+  "id" : 51,
+  "date" : "09.11.2023",
+  "time" : "01:46",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 52,
+  "date" : "12.11.2023",
+  "time" : "11:16",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 140
+}, {
+  "id" : 53,
+  "date" : "12.11.2023",
+  "time" : "17:50",
+  "destination" : "London",
+  "availableSeatsQuantity" : 166
+}, {
+  "id" : 54,
+  "date" : "15.11.2023",
+  "time" : "20:05",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 149
+}, {
+  "id" : 55,
+  "date" : "10.11.2023",
+  "time" : "23:59",
+  "destination" : "London",
+  "availableSeatsQuantity" : 153
+}, {
+  "id" : 56,
+  "date" : "09.11.2023",
+  "time" : "10:24",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 28
+}, {
+  "id" : 57,
+  "date" : "17.11.2023",
+  "time" : "10:42",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 130
+}, {
+  "id" : 58,
+  "date" : "14.11.2023",
+  "time" : "04:42",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 79
+}, {
+  "id" : 59,
+  "date" : "12.11.2023",
+  "time" : "22:12",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 171
+}, {
+  "id" : 60,
+  "date" : "08.11.2023",
+  "time" : "07:05",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 134
+}, {
+  "id" : 61,
+  "date" : "12.11.2023",
+  "time" : "21:30",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 125
+}, {
+  "id" : 62,
+  "date" : "08.11.2023",
+  "time" : "08:04",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 130
+}, {
+  "id" : 63,
+  "date" : "08.11.2023",
+  "time" : "10:14",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 12
+}, {
+  "id" : 64,
+  "date" : "12.11.2023",
+  "time" : "14:08",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 146
+}, {
+  "id" : 65,
+  "date" : "11.11.2023",
+  "time" : "09:14",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 87
+}, {
+  "id" : 66,
+  "date" : "08.11.2023",
+  "time" : "16:56",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 72
+}, {
+  "id" : 67,
+  "date" : "14.11.2023",
+  "time" : "01:59",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 188
+}, {
+  "id" : 68,
+  "date" : "13.11.2023",
+  "time" : "03:07",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 88
+}, {
+  "id" : 69,
+  "date" : "10.11.2023",
+  "time" : "16:02",
+  "destination" : "London",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 70,
+  "date" : "17.11.2023",
+  "time" : "10:50",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 42
+}, {
+  "id" : 71,
+  "date" : "17.11.2023",
+  "time" : "02:24",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 7
+}, {
+  "id" : 72,
+  "date" : "08.11.2023",
+  "time" : "01:07",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 152
+}, {
+  "id" : 73,
+  "date" : "11.11.2023",
+  "time" : "10:51",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 35
+}, {
+  "id" : 74,
+  "date" : "08.11.2023",
+  "time" : "22:58",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 181
+}, {
+  "id" : 75,
+  "date" : "17.11.2023",
+  "time" : "09:47",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 131
+}, {
+  "id" : 76,
+  "date" : "15.11.2023",
+  "time" : "04:15",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 43
+}, {
+  "id" : 77,
+  "date" : "15.11.2023",
+  "time" : "15:32",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 171
+}, {
+  "id" : 78,
+  "date" : "09.11.2023",
+  "time" : "14:33",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 172
+}, {
+  "id" : 79,
+  "date" : "17.11.2023",
+  "time" : "22:57",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 158
+}, {
+  "id" : 80,
+  "date" : "09.11.2023",
+  "time" : "10:19",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 81,
+  "date" : "09.11.2023",
+  "time" : "16:36",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 79
+}, {
+  "id" : 82,
+  "date" : "13.11.2023",
+  "time" : "06:26",
+  "destination" : "London",
+  "availableSeatsQuantity" : 58
+}, {
+  "id" : 83,
+  "date" : "17.11.2023",
+  "time" : "23:03",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 84,
+  "date" : "16.11.2023",
+  "time" : "17:24",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 111
+}, {
+  "id" : 85,
+  "date" : "14.11.2023",
+  "time" : "19:37",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 86,
+  "date" : "14.11.2023",
+  "time" : "07:02",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 164
+}, {
+  "id" : 87,
+  "date" : "12.11.2023",
+  "time" : "06:47",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 88,
+  "date" : "18.11.2023",
+  "time" : "02:17",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 89,
+  "date" : "10.11.2023",
+  "time" : "04:07",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 105
+}, {
+  "id" : 90,
+  "date" : "17.11.2023",
+  "time" : "22:55",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 91,
+  "date" : "17.11.2023",
+  "time" : "20:11",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 95
+}, {
+  "id" : 92,
+  "date" : "14.11.2023",
+  "time" : "07:06",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 93,
+  "date" : "10.11.2023",
+  "time" : "08:45",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 30
+}, {
+  "id" : 94,
+  "date" : "10.11.2023",
+  "time" : "23:40",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 150
+}, {
+  "id" : 95,
+  "date" : "15.11.2023",
+  "time" : "12:46",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 50
+}, {
+  "id" : 96,
+  "date" : "15.11.2023",
+  "time" : "16:11",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 98
+}, {
+  "id" : 97,
+  "date" : "14.11.2023",
+  "time" : "20:16",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 127
+}, {
+  "id" : 98,
+  "date" : "12.11.2023",
+  "time" : "14:42",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 99,
+  "date" : "09.11.2023",
+  "time" : "23:36",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 186
+}, {
+  "id" : 100,
+  "date" : "17.11.2023",
+  "time" : "18:12",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 168
+}, {
+  "id" : 101,
+  "date" : "08.11.2023",
+  "time" : "10:52",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 30
+}, {
+  "id" : 102,
+  "date" : "14.11.2023",
+  "time" : "16:11",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 6
+}, {
+  "id" : 103,
+  "date" : "15.11.2023",
+  "time" : "20:16",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 87
+}, {
+  "id" : 104,
+  "date" : "14.11.2023",
+  "time" : "23:15",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 160
+}, {
+  "id" : 105,
+  "date" : "11.11.2023",
+  "time" : "17:51",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 140
+}, {
+  "id" : 106,
+  "date" : "15.11.2023",
+  "time" : "01:24",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 73
+}, {
+  "id" : 107,
+  "date" : "09.11.2023",
+  "time" : "00:40",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 158
+}, {
+  "id" : 108,
+  "date" : "08.11.2023",
+  "time" : "08:22",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 96
+}, {
+  "id" : 109,
+  "date" : "18.11.2023",
+  "time" : "01:15",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 132
+}, {
+  "id" : 110,
+  "date" : "15.11.2023",
+  "time" : "13:50",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 31
+}, {
+  "id" : 111,
+  "date" : "12.11.2023",
+  "time" : "15:33",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 112,
+  "date" : "13.11.2023",
+  "time" : "23:04",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 186
+}, {
+  "id" : 113,
+  "date" : "12.11.2023",
+  "time" : "17:33",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 120
+}, {
+  "id" : 114,
+  "date" : "08.11.2023",
+  "time" : "02:21",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 115,
+  "date" : "13.11.2023",
+  "time" : "18:02",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 60
+}, {
+  "id" : 116,
+  "date" : "15.11.2023",
+  "time" : "14:12",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 183
+}, {
+  "id" : 117,
+  "date" : "15.11.2023",
+  "time" : "13:21",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 67
+}, {
+  "id" : 118,
+  "date" : "15.11.2023",
+  "time" : "18:36",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 13
+}, {
+  "id" : 119,
+  "date" : "10.11.2023",
+  "time" : "22:39",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 23
+}, {
+  "id" : 120,
+  "date" : "14.11.2023",
+  "time" : "23:45",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 104
+}, {
+  "id" : 121,
+  "date" : "13.11.2023",
+  "time" : "07:21",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 154
+}, {
+  "id" : 122,
+  "date" : "16.11.2023",
+  "time" : "09:16",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 89
+}, {
+  "id" : 123,
+  "date" : "11.11.2023",
+  "time" : "04:28",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 155
+}, {
+  "id" : 124,
+  "date" : "12.11.2023",
+  "time" : "20:28",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 56
+}, {
+  "id" : 125,
+  "date" : "11.11.2023",
+  "time" : "00:31",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 37
+}, {
+  "id" : 126,
+  "date" : "15.11.2023",
+  "time" : "05:00",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 57
+}, {
+  "id" : 127,
+  "date" : "16.11.2023",
+  "time" : "00:20",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 145
+}, {
+  "id" : 128,
+  "date" : "13.11.2023",
+  "time" : "05:23",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 47
+}, {
+  "id" : 129,
+  "date" : "10.11.2023",
+  "time" : "08:41",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 80
+}, {
+  "id" : 130,
+  "date" : "08.11.2023",
+  "time" : "16:09",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 151
+}, {
+  "id" : 131,
+  "date" : "13.11.2023",
+  "time" : "17:19",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 183
+}, {
+  "id" : 132,
+  "date" : "15.11.2023",
+  "time" : "13:57",
+  "destination" : "London",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 133,
+  "date" : "13.11.2023",
+  "time" : "01:08",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 134,
+  "date" : "09.11.2023",
+  "time" : "06:14",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 71
+}, {
+  "id" : 135,
+  "date" : "15.11.2023",
+  "time" : "07:54",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 117
+}, {
+  "id" : 136,
+  "date" : "14.11.2023",
+  "time" : "18:04",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 181
+}, {
+  "id" : 137,
+  "date" : "17.11.2023",
+  "time" : "07:18",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 3
+}, {
+  "id" : 138,
+  "date" : "14.11.2023",
+  "time" : "21:48",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 71
+}, {
+  "id" : 139,
+  "date" : "12.11.2023",
+  "time" : "11:50",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 183
+}, {
+  "id" : 140,
+  "date" : "08.11.2023",
+  "time" : "02:09",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 89
+}, {
+  "id" : 141,
+  "date" : "13.11.2023",
+  "time" : "06:16",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 115
+}, {
+  "id" : 142,
+  "date" : "17.11.2023",
+  "time" : "02:16",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 140
+}, {
+  "id" : 143,
+  "date" : "13.11.2023",
+  "time" : "03:27",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 103
+}, {
+  "id" : 144,
+  "date" : "10.11.2023",
+  "time" : "13:43",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 117
+}, {
+  "id" : 145,
+  "date" : "11.11.2023",
+  "time" : "15:28",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 146,
+  "date" : "12.11.2023",
+  "time" : "19:10",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 147,
+  "date" : "15.11.2023",
+  "time" : "07:30",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 148,
+  "date" : "15.11.2023",
+  "time" : "13:09",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 181
+}, {
+  "id" : 149,
+  "date" : "11.11.2023",
+  "time" : "18:50",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 113
+}, {
+  "id" : 150,
+  "date" : "15.11.2023",
+  "time" : "00:46",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 68
+}, {
+  "id" : 151,
+  "date" : "16.11.2023",
+  "time" : "01:27",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 10
+}, {
+  "id" : 152,
+  "date" : "14.11.2023",
+  "time" : "15:52",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 153
+}, {
+  "id" : 153,
+  "date" : "17.11.2023",
+  "time" : "03:17",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 154,
+  "date" : "16.11.2023",
+  "time" : "10:00",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 11
+}, {
+  "id" : 155,
+  "date" : "12.11.2023",
+  "time" : "05:50",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 166
+}, {
+  "id" : 156,
+  "date" : "13.11.2023",
+  "time" : "20:45",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 157,
+  "date" : "11.11.2023",
+  "time" : "08:38",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 171
+}, {
+  "id" : 158,
+  "date" : "11.11.2023",
+  "time" : "03:27",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 159,
+  "date" : "10.11.2023",
+  "time" : "20:28",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 149
+}, {
+  "id" : 160,
+  "date" : "14.11.2023",
+  "time" : "23:15",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 161
+}, {
+  "id" : 161,
+  "date" : "13.11.2023",
+  "time" : "11:37",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 174
+}, {
+  "id" : 162,
+  "date" : "15.11.2023",
+  "time" : "09:30",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 73
+}, {
+  "id" : 163,
+  "date" : "16.11.2023",
+  "time" : "03:35",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 176
+}, {
+  "id" : 164,
+  "date" : "15.11.2023",
+  "time" : "13:04",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 168
+}, {
+  "id" : 165,
+  "date" : "10.11.2023",
+  "time" : "18:17",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 173
+}, {
+  "id" : 166,
+  "date" : "10.11.2023",
+  "time" : "03:47",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 167,
+  "date" : "12.11.2023",
+  "time" : "21:31",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 102
+}, {
+  "id" : 168,
+  "date" : "11.11.2023",
+  "time" : "04:05",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 6
+}, {
+  "id" : 169,
+  "date" : "14.11.2023",
+  "time" : "13:29",
+  "destination" : "London",
+  "availableSeatsQuantity" : 41
+}, {
+  "id" : 170,
+  "date" : "12.11.2023",
+  "time" : "07:35",
+  "destination" : "London",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 171,
+  "date" : "15.11.2023",
+  "time" : "02:01",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 141
+}, {
+  "id" : 172,
+  "date" : "17.11.2023",
+  "time" : "19:23",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 117
+}, {
+  "id" : 173,
+  "date" : "09.11.2023",
+  "time" : "15:45",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 111
+}, {
+  "id" : 174,
+  "date" : "09.11.2023",
+  "time" : "18:55",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 175,
+  "date" : "08.11.2023",
+  "time" : "07:47",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 134
+}, {
+  "id" : 176,
+  "date" : "13.11.2023",
+  "time" : "11:41",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 10
+}, {
+  "id" : 177,
+  "date" : "15.11.2023",
+  "time" : "21:41",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 149
+}, {
+  "id" : 178,
+  "date" : "12.11.2023",
+  "time" : "02:16",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 156
+}, {
+  "id" : 179,
+  "date" : "12.11.2023",
+  "time" : "11:55",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 42
+}, {
+  "id" : 180,
+  "date" : "12.11.2023",
+  "time" : "23:51",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 171
+}, {
+  "id" : 181,
+  "date" : "10.11.2023",
+  "time" : "04:15",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 182,
+  "date" : "16.11.2023",
+  "time" : "07:52",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 38
+}, {
+  "id" : 183,
+  "date" : "12.11.2023",
+  "time" : "04:56",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 100
+}, {
+  "id" : 184,
+  "date" : "15.11.2023",
+  "time" : "00:56",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 185,
+  "date" : "16.11.2023",
+  "time" : "06:46",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 186,
+  "date" : "12.11.2023",
+  "time" : "01:04",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 187
+}, {
+  "id" : 187,
+  "date" : "11.11.2023",
+  "time" : "04:44",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 188,
+  "date" : "15.11.2023",
+  "time" : "12:18",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 153
+}, {
+  "id" : 189,
+  "date" : "11.11.2023",
+  "time" : "00:51",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 136
+}, {
+  "id" : 190,
+  "date" : "10.11.2023",
+  "time" : "15:38",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 62
+}, {
+  "id" : 191,
+  "date" : "13.11.2023",
+  "time" : "09:56",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 136
+}, {
+  "id" : 192,
+  "date" : "13.11.2023",
+  "time" : "02:32",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 175
+}, {
+  "id" : 193,
+  "date" : "08.11.2023",
+  "time" : "12:45",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 133
+}, {
+  "id" : 194,
+  "date" : "14.11.2023",
+  "time" : "22:05",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 70
+}, {
+  "id" : 195,
+  "date" : "17.11.2023",
+  "time" : "13:32",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 43
+}, {
+  "id" : 196,
+  "date" : "08.11.2023",
+  "time" : "09:33",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 134
+}, {
+  "id" : 197,
+  "date" : "17.11.2023",
+  "time" : "11:55",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 5
+}, {
+  "id" : 198,
+  "date" : "12.11.2023",
+  "time" : "11:40",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 46
+}, {
+  "id" : 199,
+  "date" : "09.11.2023",
+  "time" : "19:58",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 161
+}, {
+  "id" : 200,
+  "date" : "15.11.2023",
+  "time" : "10:38",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 188
+}, {
+  "id" : 201,
+  "date" : "10.11.2023",
+  "time" : "22:36",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 101
+}, {
+  "id" : 202,
+  "date" : "09.11.2023",
+  "time" : "13:18",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 37
+}, {
+  "id" : 203,
+  "date" : "17.11.2023",
+  "time" : "00:48",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 181
+}, {
+  "id" : 204,
+  "date" : "09.11.2023",
+  "time" : "09:42",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 60
+}, {
+  "id" : 205,
+  "date" : "09.11.2023",
+  "time" : "14:42",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 59
+}, {
+  "id" : 206,
+  "date" : "10.11.2023",
+  "time" : "07:09",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 53
+}, {
+  "id" : 207,
+  "date" : "09.11.2023",
+  "time" : "22:25",
+  "destination" : "London",
+  "availableSeatsQuantity" : 75
+}, {
+  "id" : 208,
+  "date" : "12.11.2023",
+  "time" : "15:14",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 3
+}, {
+  "id" : 209,
+  "date" : "09.11.2023",
+  "time" : "19:21",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 128
+}, {
+  "id" : 210,
+  "date" : "09.11.2023",
+  "time" : "10:35",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 5
+}, {
+  "id" : 211,
+  "date" : "11.11.2023",
+  "time" : "20:45",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 123
+}, {
+  "id" : 212,
+  "date" : "16.11.2023",
+  "time" : "09:32",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 45
+}, {
+  "id" : 213,
+  "date" : "09.11.2023",
+  "time" : "13:38",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 28
+}, {
+  "id" : 214,
+  "date" : "14.11.2023",
+  "time" : "00:37",
+  "destination" : "London",
+  "availableSeatsQuantity" : 64
+}, {
+  "id" : 215,
+  "date" : "16.11.2023",
+  "time" : "08:50",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 185
+}, {
+  "id" : 216,
+  "date" : "13.11.2023",
+  "time" : "13:45",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 10
+}, {
+  "id" : 217,
+  "date" : "17.11.2023",
+  "time" : "12:56",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 152
+}, {
+  "id" : 218,
+  "date" : "12.11.2023",
+  "time" : "16:13",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 55
+}, {
+  "id" : 219,
+  "date" : "17.11.2023",
+  "time" : "05:58",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 220,
+  "date" : "13.11.2023",
+  "time" : "23:19",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 136
+}, {
+  "id" : 221,
+  "date" : "17.11.2023",
+  "time" : "15:22",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 222,
+  "date" : "17.11.2023",
+  "time" : "05:34",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 223,
+  "date" : "17.11.2023",
+  "time" : "05:57",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 105
+}, {
+  "id" : 224,
+  "date" : "16.11.2023",
+  "time" : "10:35",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 8
+}, {
+  "id" : 225,
+  "date" : "14.11.2023",
+  "time" : "10:48",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 114
+}, {
+  "id" : 226,
+  "date" : "17.11.2023",
+  "time" : "04:23",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 88
+}, {
+  "id" : 227,
+  "date" : "14.11.2023",
+  "time" : "11:27",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 71
+}, {
+  "id" : 228,
+  "date" : "15.11.2023",
+  "time" : "12:37",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 103
+}, {
+  "id" : 229,
+  "date" : "17.11.2023",
+  "time" : "09:55",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 102
+}, {
+  "id" : 230,
+  "date" : "10.11.2023",
+  "time" : "09:08",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 167
+}, {
+  "id" : 231,
+  "date" : "16.11.2023",
+  "time" : "12:58",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 184
+}, {
+  "id" : 232,
+  "date" : "11.11.2023",
+  "time" : "17:45",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 36
+}, {
+  "id" : 233,
+  "date" : "11.11.2023",
+  "time" : "07:24",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 50
+}, {
+  "id" : 234,
+  "date" : "10.11.2023",
+  "time" : "08:20",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 93
+}, {
+  "id" : 235,
+  "date" : "12.11.2023",
+  "time" : "13:34",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 143
+}, {
+  "id" : 236,
+  "date" : "09.11.2023",
+  "time" : "20:41",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 170
+}, {
+  "id" : 237,
+  "date" : "17.11.2023",
+  "time" : "05:59",
+  "destination" : "London",
+  "availableSeatsQuantity" : 21
+}, {
+  "id" : 238,
+  "date" : "08.11.2023",
+  "time" : "16:30",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 165
+}, {
+  "id" : 239,
+  "date" : "08.11.2023",
+  "time" : "11:32",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 103
+}, {
+  "id" : 240,
+  "date" : "16.11.2023",
+  "time" : "03:12",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 13
+}, {
+  "id" : 241,
+  "date" : "12.11.2023",
+  "time" : "13:04",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 40
+}, {
+  "id" : 242,
+  "date" : "13.11.2023",
+  "time" : "16:26",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 119
+}, {
+  "id" : 243,
+  "date" : "08.11.2023",
+  "time" : "06:22",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 106
+}, {
+  "id" : 244,
+  "date" : "16.11.2023",
+  "time" : "07:24",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 98
+}, {
+  "id" : 245,
+  "date" : "09.11.2023",
+  "time" : "21:50",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 112
+}, {
+  "id" : 246,
+  "date" : "13.11.2023",
+  "time" : "06:59",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 40
+}, {
+  "id" : 247,
+  "date" : "15.11.2023",
+  "time" : "05:33",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 150
+}, {
+  "id" : 248,
+  "date" : "18.11.2023",
+  "time" : "02:30",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 24
+}, {
+  "id" : 249,
+  "date" : "10.11.2023",
+  "time" : "16:45",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 250,
+  "date" : "17.11.2023",
+  "time" : "21:47",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 124
+}, {
+  "id" : 251,
+  "date" : "15.11.2023",
+  "time" : "18:29",
+  "destination" : "London",
+  "availableSeatsQuantity" : 89
+}, {
+  "id" : 252,
+  "date" : "13.11.2023",
+  "time" : "06:59",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 182
+}, {
+  "id" : 253,
+  "date" : "10.11.2023",
+  "time" : "22:20",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 41
+}, {
+  "id" : 254,
+  "date" : "11.11.2023",
+  "time" : "20:49",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 117
+}, {
+  "id" : 255,
+  "date" : "10.11.2023",
+  "time" : "11:57",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 13
+}, {
+  "id" : 256,
+  "date" : "11.11.2023",
+  "time" : "06:40",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 36
+}, {
+  "id" : 257,
+  "date" : "12.11.2023",
+  "time" : "23:38",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 35
+}, {
+  "id" : 258,
+  "date" : "15.11.2023",
+  "time" : "06:48",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 162
+}, {
+  "id" : 259,
+  "date" : "18.11.2023",
+  "time" : "02:51",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 24
+}, {
+  "id" : 260,
+  "date" : "10.11.2023",
+  "time" : "02:17",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 178
+}, {
+  "id" : 261,
+  "date" : "10.11.2023",
+  "time" : "10:56",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 141
+}, {
+  "id" : 262,
+  "date" : "15.11.2023",
+  "time" : "14:20",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 46
+}, {
+  "id" : 263,
+  "date" : "08.11.2023",
+  "time" : "09:04",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 264,
+  "date" : "10.11.2023",
+  "time" : "08:28",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 165
+}, {
+  "id" : 265,
+  "date" : "17.11.2023",
+  "time" : "18:27",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 266,
+  "date" : "16.11.2023",
+  "time" : "01:59",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 74
+}, {
+  "id" : 267,
+  "date" : "12.11.2023",
+  "time" : "04:55",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 105
+}, {
+  "id" : 268,
+  "date" : "12.11.2023",
+  "time" : "08:47",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 167
+}, {
+  "id" : 269,
+  "date" : "16.11.2023",
+  "time" : "12:40",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 156
+}, {
+  "id" : 270,
+  "date" : "09.11.2023",
+  "time" : "01:07",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 178
+}, {
+  "id" : 271,
+  "date" : "13.11.2023",
+  "time" : "21:36",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 172
+}, {
+  "id" : 272,
+  "date" : "11.11.2023",
+  "time" : "05:42",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 167
+}, {
+  "id" : 273,
+  "date" : "10.11.2023",
+  "time" : "13:32",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 157
+}, {
+  "id" : 274,
+  "date" : "11.11.2023",
+  "time" : "17:06",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 162
+}, {
+  "id" : 275,
+  "date" : "13.11.2023",
+  "time" : "16:26",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 70
+}, {
+  "id" : 276,
+  "date" : "10.11.2023",
+  "time" : "04:59",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 14
+}, {
+  "id" : 277,
+  "date" : "09.11.2023",
+  "time" : "23:00",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 165
+}, {
+  "id" : 278,
+  "date" : "11.11.2023",
+  "time" : "20:00",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 85
+}, {
+  "id" : 279,
+  "date" : "13.11.2023",
+  "time" : "16:31",
+  "destination" : "London",
+  "availableSeatsQuantity" : 76
+}, {
+  "id" : 280,
+  "date" : "16.11.2023",
+  "time" : "11:21",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 21
+}, {
+  "id" : 281,
+  "date" : "09.11.2023",
+  "time" : "05:38",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 165
+}, {
+  "id" : 282,
+  "date" : "12.11.2023",
+  "time" : "15:52",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 70
+}, {
+  "id" : 283,
+  "date" : "15.11.2023",
+  "time" : "18:58",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 139
+}, {
+  "id" : 284,
+  "date" : "14.11.2023",
+  "time" : "00:47",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 3
+}, {
+  "id" : 285,
+  "date" : "13.11.2023",
+  "time" : "01:30",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 44
+}, {
+  "id" : 286,
+  "date" : "12.11.2023",
+  "time" : "19:17",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 137
+}, {
+  "id" : 287,
+  "date" : "10.11.2023",
+  "time" : "05:55",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 60
+}, {
+  "id" : 288,
+  "date" : "14.11.2023",
+  "time" : "05:25",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 289,
+  "date" : "17.11.2023",
+  "time" : "17:15",
+  "destination" : "London",
+  "availableSeatsQuantity" : 28
+}, {
+  "id" : 290,
+  "date" : "16.11.2023",
+  "time" : "18:32",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 164
+}, {
+  "id" : 291,
+  "date" : "14.11.2023",
+  "time" : "03:25",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 43
+}, {
+  "id" : 292,
+  "date" : "10.11.2023",
+  "time" : "09:32",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 107
+}, {
+  "id" : 293,
+  "date" : "12.11.2023",
+  "time" : "20:29",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 169
+}, {
+  "id" : 294,
+  "date" : "10.11.2023",
+  "time" : "13:15",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 139
+}, {
+  "id" : 295,
+  "date" : "12.11.2023",
+  "time" : "10:03",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 155
+}, {
+  "id" : 296,
+  "date" : "11.11.2023",
+  "time" : "17:34",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 159
+}, {
+  "id" : 297,
+  "date" : "17.11.2023",
+  "time" : "00:05",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 133
+}, {
+  "id" : 298,
+  "date" : "11.11.2023",
+  "time" : "05:43",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 165
+}, {
+  "id" : 299,
+  "date" : "17.11.2023",
+  "time" : "01:57",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 85
+}, {
+  "id" : 300,
+  "date" : "12.11.2023",
+  "time" : "15:16",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 173
+}, {
+  "id" : 301,
+  "date" : "14.11.2023",
+  "time" : "18:04",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 98
+}, {
+  "id" : 302,
+  "date" : "12.11.2023",
+  "time" : "15:59",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 30
+}, {
+  "id" : 303,
+  "date" : "17.11.2023",
+  "time" : "17:43",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 132
+}, {
+  "id" : 304,
+  "date" : "14.11.2023",
+  "time" : "04:22",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 101
+}, {
+  "id" : 305,
+  "date" : "14.11.2023",
+  "time" : "23:01",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 42
+}, {
+  "id" : 306,
+  "date" : "16.11.2023",
+  "time" : "10:54",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 307,
+  "date" : "11.11.2023",
+  "time" : "07:02",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 178
+}, {
+  "id" : 308,
+  "date" : "09.11.2023",
+  "time" : "16:28",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 167
+}, {
+  "id" : 309,
+  "date" : "08.11.2023",
+  "time" : "03:03",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 92
+}, {
+  "id" : 310,
+  "date" : "13.11.2023",
+  "time" : "10:45",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 153
+}, {
+  "id" : 311,
+  "date" : "15.11.2023",
+  "time" : "12:13",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 127
+}, {
+  "id" : 312,
+  "date" : "15.11.2023",
+  "time" : "08:57",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 143
+}, {
+  "id" : 313,
+  "date" : "15.11.2023",
+  "time" : "09:22",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 314,
+  "date" : "16.11.2023",
+  "time" : "05:00",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 186
+}, {
+  "id" : 315,
+  "date" : "15.11.2023",
+  "time" : "15:44",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 45
+}, {
+  "id" : 316,
+  "date" : "12.11.2023",
+  "time" : "07:23",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 177
+}, {
+  "id" : 317,
+  "date" : "13.11.2023",
+  "time" : "06:30",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 69
+}, {
+  "id" : 318,
+  "date" : "14.11.2023",
+  "time" : "22:14",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 124
+}, {
+  "id" : 319,
+  "date" : "13.11.2023",
+  "time" : "06:41",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 146
+}, {
+  "id" : 320,
+  "date" : "16.11.2023",
+  "time" : "03:19",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 123
+}, {
+  "id" : 321,
+  "date" : "17.11.2023",
+  "time" : "20:44",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 56
+}, {
+  "id" : 322,
+  "date" : "12.11.2023",
+  "time" : "11:04",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 2
+}, {
+  "id" : 323,
+  "date" : "10.11.2023",
+  "time" : "12:26",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 101
+}, {
+  "id" : 324,
+  "date" : "12.11.2023",
+  "time" : "19:01",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 6
+}, {
+  "id" : 325,
+  "date" : "16.11.2023",
+  "time" : "20:19",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 133
+}, {
+  "id" : 326,
+  "date" : "12.11.2023",
+  "time" : "20:31",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 159
+}, {
+  "id" : 327,
+  "date" : "17.11.2023",
+  "time" : "17:12",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 164
+}, {
+  "id" : 328,
+  "date" : "14.11.2023",
+  "time" : "21:01",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 104
+}, {
+  "id" : 329,
+  "date" : "15.11.2023",
+  "time" : "06:30",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 61
+}, {
+  "id" : 330,
+  "date" : "12.11.2023",
+  "time" : "06:23",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 56
+}, {
+  "id" : 331,
+  "date" : "15.11.2023",
+  "time" : "12:52",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 55
+}, {
+  "id" : 332,
+  "date" : "15.11.2023",
+  "time" : "13:33",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 179
+}, {
+  "id" : 333,
+  "date" : "17.11.2023",
+  "time" : "12:20",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 111
+}, {
+  "id" : 334,
+  "date" : "12.11.2023",
+  "time" : "22:17",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 4
+}, {
+  "id" : 335,
+  "date" : "12.11.2023",
+  "time" : "23:02",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 137
+}, {
+  "id" : 336,
+  "date" : "11.11.2023",
+  "time" : "19:13",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 9
+}, {
+  "id" : 337,
+  "date" : "12.11.2023",
+  "time" : "07:28",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 338,
+  "date" : "12.11.2023",
+  "time" : "09:37",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 28
+}, {
+  "id" : 339,
+  "date" : "11.11.2023",
+  "time" : "16:10",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 37
+}, {
+  "id" : 340,
+  "date" : "11.11.2023",
+  "time" : "19:43",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 180
+}, {
+  "id" : 341,
+  "date" : "08.11.2023",
+  "time" : "08:56",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 184
+}, {
+  "id" : 342,
+  "date" : "10.11.2023",
+  "time" : "00:58",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 23
+}, {
+  "id" : 343,
+  "date" : "11.11.2023",
+  "time" : "12:44",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 3
+}, {
+  "id" : 344,
+  "date" : "16.11.2023",
+  "time" : "05:10",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 345,
+  "date" : "15.11.2023",
+  "time" : "11:08",
+  "destination" : "London",
+  "availableSeatsQuantity" : 30
+}, {
+  "id" : 346,
+  "date" : "17.11.2023",
+  "time" : "08:48",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 72
+}, {
+  "id" : 347,
+  "date" : "11.11.2023",
+  "time" : "00:49",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 151
+}, {
+  "id" : 348,
+  "date" : "17.11.2023",
+  "time" : "04:39",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 125
+}, {
+  "id" : 349,
+  "date" : "17.11.2023",
+  "time" : "04:32",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 350,
+  "date" : "12.11.2023",
+  "time" : "22:14",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 118
+}, {
+  "id" : 351,
+  "date" : "15.11.2023",
+  "time" : "03:48",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 171
+}, {
+  "id" : 352,
+  "date" : "09.11.2023",
+  "time" : "04:14",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 138
+}, {
+  "id" : 353,
+  "date" : "13.11.2023",
+  "time" : "08:10",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 130
+}, {
+  "id" : 354,
+  "date" : "09.11.2023",
+  "time" : "02:24",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 141
+}, {
+  "id" : 355,
+  "date" : "12.11.2023",
+  "time" : "16:57",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 27
+}, {
+  "id" : 356,
+  "date" : "17.11.2023",
+  "time" : "22:26",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 357,
+  "date" : "09.11.2023",
+  "time" : "23:43",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 4
+}, {
+  "id" : 358,
+  "date" : "08.11.2023",
+  "time" : "21:06",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 65
+}, {
+  "id" : 359,
+  "date" : "10.11.2023",
+  "time" : "00:56",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 360,
+  "date" : "14.11.2023",
+  "time" : "16:50",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 13
+}, {
+  "id" : 361,
+  "date" : "13.11.2023",
+  "time" : "19:34",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 83
+}, {
+  "id" : 362,
+  "date" : "10.11.2023",
+  "time" : "05:29",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 16
+}, {
+  "id" : 363,
+  "date" : "17.11.2023",
+  "time" : "07:42",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 21
+}, {
+  "id" : 364,
+  "date" : "15.11.2023",
+  "time" : "01:22",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 144
+}, {
+  "id" : 365,
+  "date" : "08.11.2023",
+  "time" : "05:53",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 366,
+  "date" : "17.11.2023",
+  "time" : "21:42",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 91
+}, {
+  "id" : 367,
+  "date" : "15.11.2023",
+  "time" : "15:26",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 90
+}, {
+  "id" : 368,
+  "date" : "15.11.2023",
+  "time" : "13:53",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 109
+}, {
+  "id" : 369,
+  "date" : "11.11.2023",
+  "time" : "16:19",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 77
+}, {
+  "id" : 370,
+  "date" : "16.11.2023",
+  "time" : "08:05",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 15
+}, {
+  "id" : 371,
+  "date" : "11.11.2023",
+  "time" : "06:00",
+  "destination" : "London",
+  "availableSeatsQuantity" : 159
+}, {
+  "id" : 372,
+  "date" : "09.11.2023",
+  "time" : "23:50",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 132
+}, {
+  "id" : 373,
+  "date" : "10.11.2023",
+  "time" : "10:30",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 62
+}, {
+  "id" : 374,
+  "date" : "11.11.2023",
+  "time" : "13:38",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 41
+}, {
+  "id" : 375,
+  "date" : "13.11.2023",
+  "time" : "22:29",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 179
+}, {
+  "id" : 376,
+  "date" : "10.11.2023",
+  "time" : "23:56",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 128
+}, {
+  "id" : 377,
+  "date" : "12.11.2023",
+  "time" : "13:23",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 100
+}, {
+  "id" : 378,
+  "date" : "15.11.2023",
+  "time" : "08:12",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 111
+}, {
+  "id" : 379,
+  "date" : "09.11.2023",
+  "time" : "14:34",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 15
+}, {
+  "id" : 380,
+  "date" : "11.11.2023",
+  "time" : "02:16",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 80
+}, {
+  "id" : 381,
+  "date" : "14.11.2023",
+  "time" : "21:31",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 129
+}, {
+  "id" : 382,
+  "date" : "16.11.2023",
+  "time" : "00:53",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 155
+}, {
+  "id" : 383,
+  "date" : "17.11.2023",
+  "time" : "19:11",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 7
+}, {
+  "id" : 384,
+  "date" : "10.11.2023",
+  "time" : "19:51",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 153
+}, {
+  "id" : 385,
+  "date" : "16.11.2023",
+  "time" : "00:56",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 71
+}, {
+  "id" : 386,
+  "date" : "17.11.2023",
+  "time" : "02:33",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 387,
+  "date" : "08.11.2023",
+  "time" : "15:54",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 388,
+  "date" : "10.11.2023",
+  "time" : "13:21",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 142
+}, {
+  "id" : 389,
+  "date" : "17.11.2023",
+  "time" : "19:10",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 187
+}, {
+  "id" : 390,
+  "date" : "17.11.2023",
+  "time" : "21:45",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 187
+}, {
+  "id" : 391,
+  "date" : "11.11.2023",
+  "time" : "00:42",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 52
+}, {
+  "id" : 392,
+  "date" : "15.11.2023",
+  "time" : "23:34",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 14
+}, {
+  "id" : 393,
+  "date" : "15.11.2023",
+  "time" : "05:55",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 13
+}, {
+  "id" : 394,
+  "date" : "15.11.2023",
+  "time" : "01:54",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 123
+}, {
+  "id" : 395,
+  "date" : "14.11.2023",
+  "time" : "03:52",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 105
+}, {
+  "id" : 396,
+  "date" : "10.11.2023",
+  "time" : "23:22",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 156
+}, {
+  "id" : 397,
+  "date" : "08.11.2023",
+  "time" : "11:45",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 53
+}, {
+  "id" : 398,
+  "date" : "09.11.2023",
+  "time" : "01:23",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 5
+}, {
+  "id" : 399,
+  "date" : "12.11.2023",
+  "time" : "21:55",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 99
+}, {
+  "id" : 400,
+  "date" : "15.11.2023",
+  "time" : "15:36",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 87
+}, {
+  "id" : 401,
+  "date" : "12.11.2023",
+  "time" : "13:23",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 178
+}, {
+  "id" : 402,
+  "date" : "11.11.2023",
+  "time" : "19:32",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 25
+}, {
+  "id" : 403,
+  "date" : "12.11.2023",
+  "time" : "20:28",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 20
+}, {
+  "id" : 404,
+  "date" : "17.11.2023",
+  "time" : "04:04",
+  "destination" : "London",
+  "availableSeatsQuantity" : 18
+}, {
+  "id" : 405,
+  "date" : "11.11.2023",
+  "time" : "13:30",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 406,
+  "date" : "13.11.2023",
+  "time" : "07:38",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 175
+}, {
+  "id" : 407,
+  "date" : "12.11.2023",
+  "time" : "01:32",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 160
+}, {
+  "id" : 408,
+  "date" : "14.11.2023",
+  "time" : "02:58",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 168
+}, {
+  "id" : 409,
+  "date" : "08.11.2023",
+  "time" : "16:22",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 63
+}, {
+  "id" : 410,
+  "date" : "09.11.2023",
+  "time" : "09:04",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 107
+}, {
+  "id" : 411,
+  "date" : "08.11.2023",
+  "time" : "09:38",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 8
+}, {
+  "id" : 412,
+  "date" : "15.11.2023",
+  "time" : "08:38",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 63
+}, {
+  "id" : 413,
+  "date" : "09.11.2023",
+  "time" : "10:11",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 113
+}, {
+  "id" : 414,
+  "date" : "08.11.2023",
+  "time" : "17:33",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 49
+}, {
+  "id" : 415,
+  "date" : "08.11.2023",
+  "time" : "06:38",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 10
+}, {
+  "id" : 416,
+  "date" : "11.11.2023",
+  "time" : "09:32",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 417,
+  "date" : "17.11.2023",
+  "time" : "17:35",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 144
+}, {
+  "id" : 418,
+  "date" : "15.11.2023",
+  "time" : "01:16",
+  "destination" : "London",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 419,
+  "date" : "11.11.2023",
+  "time" : "09:53",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 182
+}, {
+  "id" : 420,
+  "date" : "16.11.2023",
+  "time" : "10:21",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 148
+}, {
+  "id" : 421,
+  "date" : "08.11.2023",
+  "time" : "19:55",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 124
+}, {
+  "id" : 422,
+  "date" : "10.11.2023",
+  "time" : "07:36",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 3
+}, {
+  "id" : 423,
+  "date" : "10.11.2023",
+  "time" : "11:56",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 113
+}, {
+  "id" : 424,
+  "date" : "15.11.2023",
+  "time" : "08:52",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 148
+}, {
+  "id" : 425,
+  "date" : "13.11.2023",
+  "time" : "22:54",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 103
+}, {
+  "id" : 426,
+  "date" : "12.11.2023",
+  "time" : "00:03",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 154
+}, {
+  "id" : 427,
+  "date" : "11.11.2023",
+  "time" : "07:57",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 54
+}, {
+  "id" : 428,
+  "date" : "08.11.2023",
+  "time" : "23:52",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 174
+}, {
+  "id" : 429,
+  "date" : "12.11.2023",
+  "time" : "20:41",
+  "destination" : "Barcelona",
+  "availableSeatsQuantity" : 47
+}, {
+  "id" : 430,
+  "date" : "13.11.2023",
+  "time" : "16:23",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 431,
+  "date" : "14.11.2023",
+  "time" : "04:35",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 432,
+  "date" : "10.11.2023",
+  "time" : "20:42",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 96
+}, {
+  "id" : 433,
+  "date" : "12.11.2023",
+  "time" : "17:24",
+  "destination" : "Rome",
+  "availableSeatsQuantity" : 48
+}, {
+  "id" : 434,
+  "date" : "12.11.2023",
+  "time" : "09:27",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 126
+}, {
+  "id" : 435,
+  "date" : "14.11.2023",
+  "time" : "15:10",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 41
+}, {
+  "id" : 436,
+  "date" : "10.11.2023",
+  "time" : "11:10",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 437,
+  "date" : "16.11.2023",
+  "time" : "20:49",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 2
+}, {
+  "id" : 438,
+  "date" : "08.11.2023",
+  "time" : "03:56",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 150
+}, {
+  "id" : 439,
+  "date" : "12.11.2023",
+  "time" : "17:44",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 86
+}, {
+  "id" : 440,
+  "date" : "17.11.2023",
+  "time" : "19:00",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 141
+}, {
+  "id" : 441,
+  "date" : "09.11.2023",
+  "time" : "17:16",
+  "destination" : "London",
+  "availableSeatsQuantity" : 61
+}, {
+  "id" : 442,
+  "date" : "11.11.2023",
+  "time" : "09:47",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 62
+}, {
+  "id" : 443,
+  "date" : "13.11.2023",
+  "time" : "21:38",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 64
+}, {
+  "id" : 444,
+  "date" : "15.11.2023",
+  "time" : "08:51",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 14
+}, {
+  "id" : 445,
+  "date" : "17.11.2023",
+  "time" : "07:05",
+  "destination" : "London",
+  "availableSeatsQuantity" : 105
+}, {
+  "id" : 446,
+  "date" : "14.11.2023",
+  "time" : "21:25",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 80
+}, {
+  "id" : 447,
+  "date" : "15.11.2023",
+  "time" : "15:58",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 174
+}, {
+  "id" : 448,
+  "date" : "12.11.2023",
+  "time" : "03:19",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 101
+}, {
+  "id" : 449,
+  "date" : "16.11.2023",
+  "time" : "02:17",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 160
+}, {
+  "id" : 450,
+  "date" : "15.11.2023",
+  "time" : "11:16",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 114
+}, {
+  "id" : 451,
+  "date" : "08.11.2023",
+  "time" : "23:18",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 93
+}, {
+  "id" : 452,
+  "date" : "09.11.2023",
+  "time" : "23:24",
+  "destination" : "London",
+  "availableSeatsQuantity" : 170
+}, {
+  "id" : 453,
+  "date" : "16.11.2023",
+  "time" : "20:47",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 6
+}, {
+  "id" : 454,
+  "date" : "13.11.2023",
+  "time" : "22:56",
+  "destination" : "Dubai",
+  "availableSeatsQuantity" : 147
+}, {
+  "id" : 455,
+  "date" : "12.11.2023",
+  "time" : "13:25",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 22
+}, {
+  "id" : 456,
+  "date" : "17.11.2023",
+  "time" : "12:20",
+  "destination" : "Madrid",
+  "availableSeatsQuantity" : 46
+}, {
+  "id" : 457,
+  "date" : "08.11.2023",
+  "time" : "23:41",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 180
+}, {
+  "id" : 458,
+  "date" : "14.11.2023",
+  "time" : "02:44",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 154
+}, {
+  "id" : 459,
+  "date" : "16.11.2023",
+  "time" : "01:45",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 181
+}, {
+  "id" : 460,
+  "date" : "11.11.2023",
+  "time" : "14:44",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 119
+}, {
+  "id" : 461,
+  "date" : "17.11.2023",
+  "time" : "06:27",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 462,
+  "date" : "15.11.2023",
+  "time" : "10:14",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 186
+}, {
+  "id" : 463,
+  "date" : "16.11.2023",
+  "time" : "14:55",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 8
+}, {
+  "id" : 464,
+  "date" : "14.11.2023",
+  "time" : "11:20",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 129
+}, {
+  "id" : 465,
+  "date" : "14.11.2023",
+  "time" : "13:43",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 55
+}, {
+  "id" : 466,
+  "date" : "08.11.2023",
+  "time" : "18:29",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 51
+}, {
+  "id" : 467,
+  "date" : "08.11.2023",
+  "time" : "21:37",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 94
+}, {
+  "id" : 468,
+  "date" : "12.11.2023",
+  "time" : "23:13",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 34
+}, {
+  "id" : 469,
+  "date" : "15.11.2023",
+  "time" : "10:50",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 102
+}, {
+  "id" : 470,
+  "date" : "15.11.2023",
+  "time" : "09:10",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 121
+}, {
+  "id" : 471,
+  "date" : "11.11.2023",
+  "time" : "07:45",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 8
+}, {
+  "id" : 472,
+  "date" : "17.11.2023",
+  "time" : "23:46",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 104
+}, {
+  "id" : 473,
+  "date" : "10.11.2023",
+  "time" : "05:54",
+  "destination" : "San Francisco",
+  "availableSeatsQuantity" : 66
+}, {
+  "id" : 474,
+  "date" : "13.11.2023",
+  "time" : "09:28",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 475,
+  "date" : "13.11.2023",
+  "time" : "10:54",
+  "destination" : "Tokyo",
+  "availableSeatsQuantity" : 50
+}, {
+  "id" : 476,
+  "date" : "15.11.2023",
+  "time" : "01:10",
+  "destination" : "London",
+  "availableSeatsQuantity" : 69
+}, {
+  "id" : 477,
+  "date" : "08.11.2023",
+  "time" : "14:06",
+  "destination" : "Buenos Aires",
+  "availableSeatsQuantity" : 88
+}, {
+  "id" : 478,
+  "date" : "11.11.2023",
+  "time" : "23:54",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 102
+}, {
+  "id" : 479,
+  "date" : "16.11.2023",
+  "time" : "06:51",
+  "destination" : "New York City",
+  "availableSeatsQuantity" : 84
+}, {
+  "id" : 480,
+  "date" : "12.11.2023",
+  "time" : "00:01",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 75
+}, {
+  "id" : 481,
+  "date" : "12.11.2023",
+  "time" : "17:29",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 78
+}, {
+  "id" : 482,
+  "date" : "14.11.2023",
+  "time" : "06:38",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 14
+}, {
+  "id" : 483,
+  "date" : "10.11.2023",
+  "time" : "03:32",
+  "destination" : "Seoul",
+  "availableSeatsQuantity" : 131
+}, {
+  "id" : 484,
+  "date" : "13.11.2023",
+  "time" : "21:52",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 485,
+  "date" : "09.11.2023",
+  "time" : "04:41",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 19
+}, {
+  "id" : 486,
+  "date" : "16.11.2023",
+  "time" : "12:18",
+  "destination" : "Warsaw",
+  "availableSeatsQuantity" : 38
+}, {
+  "id" : 487,
+  "date" : "17.11.2023",
+  "time" : "07:29",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 135
+}, {
+  "id" : 488,
+  "date" : "17.11.2023",
+  "time" : "09:07",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 48
+}, {
+  "id" : 489,
+  "date" : "10.11.2023",
+  "time" : "10:14",
+  "destination" : "Amsterdam",
+  "availableSeatsQuantity" : 80
+}, {
+  "id" : 490,
+  "date" : "09.11.2023",
+  "time" : "11:00",
+  "destination" : "Istanbul",
+  "availableSeatsQuantity" : 185
+}, {
+  "id" : 491,
+  "date" : "11.11.2023",
+  "time" : "23:06",
+  "destination" : "Bangkok",
+  "availableSeatsQuantity" : 102
+}, {
+  "id" : 492,
+  "date" : "13.11.2023",
+  "time" : "04:26",
+  "destination" : "Vienna",
+  "availableSeatsQuantity" : 24
+}, {
+  "id" : 493,
+  "date" : "17.11.2023",
+  "time" : "11:41",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 110
+}, {
+  "id" : 494,
+  "date" : "13.11.2023",
+  "time" : "11:25",
+  "destination" : "Paris",
+  "availableSeatsQuantity" : 39
+}, {
+  "id" : 495,
+  "date" : "17.11.2023",
+  "time" : "07:14",
+  "destination" : "Bern",
+  "availableSeatsQuantity" : 158
+}, {
+  "id" : 496,
+  "date" : "17.11.2023",
+  "time" : "17:23",
+  "destination" : "Washington",
+  "availableSeatsQuantity" : 64
+}, {
+  "id" : 497,
+  "date" : "13.11.2023",
+  "time" : "03:22",
+  "destination" : "Prague",
+  "availableSeatsQuantity" : 29
+}, {
+  "id" : 498,
+  "date" : "15.11.2023",
+  "time" : "12:27",
+  "destination" : "Sydney",
+  "availableSeatsQuantity" : 180
+}, {
+  "id" : 499,
+  "date" : "12.11.2023",
+  "time" : "05:24",
+  "destination" : "Rio de Janeiro",
+  "availableSeatsQuantity" : 108
+}, {
+  "id" : 500,
+  "date" : "10.11.2023",
+  "time" : "21:25",
+  "destination" : "London",
+  "availableSeatsQuantity" : 134
+} ]

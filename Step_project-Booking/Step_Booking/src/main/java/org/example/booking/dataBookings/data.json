@@ -1,0 +1,14 @@
+[ {
+  "humans" : [ {
+    "name" : "Kris",
+    "surname" : "Soul"
+  }, {
+    "name" : "Kris",
+    "surname" : "Soul"
+  } ],
+  "destination" : "Пункт Призначення",
+  "dateCreate" : "08.11.2023",
+  "dateUpdate" : "08.11.2023",
+  "id" : 1,
+  "idFlight" : 13
+}]
